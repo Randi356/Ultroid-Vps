@@ -16,6 +16,6 @@ GH_TOKEN
 
 # ULTROID CREDSV5 UPDATE NEW 2021-2022
 
-CLICK FORK [CREDS](https://github.com/Randi356/Ultroid-CredsV5) Made by Rendy
+CLICK USE THIS TEMPLATE [CREDS](https://github.com/Randi356/Ultroid-CredsV5) Made by Rendy
   
   
